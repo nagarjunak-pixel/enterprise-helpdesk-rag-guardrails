@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "enterprise-helpdesk-rag": {
+      "command": "uv",
+      "args": ["run", "helpdesk-rag", "mcp"],
+      "description": "Enterprise Help-Desk Hybrid RAG & Guardrails System with C++20 BM25+Cosine+RRF, Code-Enforced Refusal & Automated Acceptance Suite"
+    }
+  }
+}
